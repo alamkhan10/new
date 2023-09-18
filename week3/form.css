@@ -1,0 +1,52 @@
+
+.main{
+    padding-left: 100px;
+}
+h1{
+    text-transform: capitalize;
+    font-weight: bold;
+}
+label #name {
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.name{
+    display: flex;
+}
+.last{
+    padding-left: 15px;
+}
+
+.date{
+    display: flex;
+}
+.checkout{
+    padding-left: 15px;
+}
+.checkbox{
+    display: flex;
+    flex-direction: column;
+}
+.towel #towels{
+   margin-right: 250px;
+}
+.other #cleaning{
+    margin-right: 250px;
+}
+.submit{
+    text-align: center;
+}
+.submit #button{
+    background-color: blue;
+    color: aliceblue;
+}
+#add{
+    font-weight: bold;
+}
+.radio #caravan{
+    font-weight: bold;
+}
+.guest #pep{
+    font-family: bold;
+}
