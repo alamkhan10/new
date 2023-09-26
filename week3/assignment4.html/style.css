@@ -1,0 +1,40 @@
+h1{
+    font-size: 10px;
+}
+.percentage{
+    width: 50%;
+    background-color: red;
+    border: 2px solid black;
+}
+.child{
+    width: 50%;
+    background-color: blue;
+}
+.viewport{
+   
+    width: 80px;
+    height: 80px;
+    border: 2px solid black;
+}
+div.vh{
+    background-color: pink;
+   height: 10vh;  
+}
+.wh{
+    background-color: aqua;
+    width: 30vw;
+}
+.width{
+    width: 50%;
+    background-color: red;
+}
+.rem{
+    width: 100%;
+}
+.rem {
+    font-size: 1rem;
+    width: 100%;
+}
+.em{
+    font-size: 2em;
+}
