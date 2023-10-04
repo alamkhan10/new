@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+ header h2{
+line-height: normal;
+    font-size: 24px;
+   
+ }
+
+
+header{
+    background-color: rgb(16, 16, 211);
+    justify-content: space-between;
+    height: 25vh;
+    width: 100%;
+   
+}
+ ul{
+    display: flex;
+ }
+.nav  li{
+    list-style: none;
+    text-decoration: none;
+    padding: 3px 10px 30px 10px;
+   color: white;
+   font-size: 1.5rem;
+}
+.flex{
+    display: flex;
+     justify-content: space-between;
+}
+
+ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.logo{
+    font-family: calc(box-sizing);
+    font-weight: 700px;
+    line-height: 10rem;
+}
+.text{
+    text-align: center;
+    font-size: 1.5rem;
+    color: white;
+}
+.search{
+    height: 40px;
+    width: 55vw;
+    border-radius: 20px;
+}
+main{
+    text-align: center;
+}
+main .content{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.box1{
+    display: inline-block;
+    width: 25%;
+    background-color: antiquewhite;
+    height: 20vh ;
+    margin-right: 15px;
+}
+.box2{
+    display: inline-block;
+    width: 25%;
+    background-color: antiquewhite;
+    height: 20vh ;
+    margin-right: 15px;
+}
+.box3{
+    display: inline-block;
+    background-color: antiquewhite;
+    width: 25%;
+    height: 20vh ;
+}
+button{
+    margin-top: 10px;
+    width: 80px;
+    height: 40px;
+    background-color: blue;
+    color: blanchedalmond;
+    border: none;
+}
+.content{
+    padding-top: 20px;
+}
