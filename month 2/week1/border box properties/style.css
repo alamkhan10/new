@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.border{
+    border: 2px  dashed blue;
+    background-color: red;
+    padding-top: 20px;
+  padding-bottom: 40px;
+  display: inline-block;
+}
+.box{
+   border: 2px solid black;
+    margin-left: 30px;
+    background-color: pink;
+    padding: 20px 20px 0px 20px;
+    display: inline-block;
+}
+header{
+    display: flex;
+}

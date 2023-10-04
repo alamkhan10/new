@@ -1,0 +1,48 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color:  black;
+    color: white;
+}
+  header div{
+    background-color: pink;
+    border: 2px solid black;
+    display: inline-block;
+    width: 13%;
+    height: 20vh;
+    margin-right: 5px   ;
+    color: red;
+    border-radius: 8px;
+    margin-bottom: 20px;
+ }
+ header{
+    margin-top: 20px;
+ }
+ div p {
+    padding-top: 10px;
+    text-align: center;
+    justify-content: center;
+ }
+.row{
+    background-color: pink;
+    border: 2px solid black;
+    display: inline-block;
+    width: 13%;
+    height: 20vh;
+    margin-right: 5px   ;
+    color: red;
+    border-radius: 8px;
+
+}
+
+
+
+.row3{
+    margin-top: 20px;
+}
