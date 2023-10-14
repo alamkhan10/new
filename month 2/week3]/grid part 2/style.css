@@ -1,0 +1,33 @@
+.container{
+    border: 2px solid black;
+    height: 89vh;
+    display: grid;
+    grid-template-columns: 300px 300px  ;
+    grid-template-rows: 200px 200px 200px;
+    gap: 10px 10px;
+          
+            
+.child1{
+    background-color: black;
+    color: aliceblue;
+    justify-items: center;
+    align-items: baseline ;
+}
+.child2{
+    background-color: black;
+    
+    color: aliceblue;
+
+}
+.child3{
+    background-color: black;
+    color: aliceblue;
+}
+/* .child4{
+    background-color: black;
+    color: aliceblue;
+}
+.child5{
+    background-color: black;
+    color: aliceblue;
+} */
